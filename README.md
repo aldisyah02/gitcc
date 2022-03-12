@@ -7,4 +7,4 @@
   <li> Kalau sudah update di branch kalian , merge ke branch main/master </li>
 </ul>
 
-<h2><b>TUGAS AKA DI CEK SECARA BERKALA LEWAT COMMIT</b></h2>
+<h2><b>TUGAS AKAN DI CEK SECARA BERKALA LEWAT COMMIT</b></h2>
